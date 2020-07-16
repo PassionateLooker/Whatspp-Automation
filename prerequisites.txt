@@ -1,0 +1,7 @@
+Prerequisites for this project:
+
+
+Python
+Account on Twilio
+advanced python scheduler
+heroku
